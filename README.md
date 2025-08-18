@@ -1,2 +1,1 @@
-# safiverse
-my portfolio website
+# Safiverse
